@@ -1,7 +1,5 @@
 class Solution {
     public int countPalindromicSubsequence(String s) {
-        class Solution {
-    public int countPalindromicSubsequence(String s) {
         int n = s.length();
         int[] first = new int[26];
         int[] last  = new int[26];
@@ -30,5 +28,4 @@ class Solution {
     }
 }
 
-    }
-}
+    
