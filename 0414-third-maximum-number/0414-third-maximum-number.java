@@ -1,21 +1,31 @@
-import java.util.Arrays;
-
 class Solution {
     public int thirdMax(int[] nums) {
-
-        int n = nums.length;
-        Arrays.sort(nums);
-        int count = 1;  
-        int res = nums[n - 1]; 
-        for (int i = n - 2; i >= 0; i--) {
-            if (nums[i] != nums[i + 1]) {
-                count++;
+        int v1=0;
+        int v2=0;
+        int v3=0;
+        for (int num:nums){
+            int n=num;
+            if ((v1!=0 && n==v1) || (v2!=0 && n==v2) || (v3!=0 && n==v3 )){
+                continue;
             }
-
-            if (count == 3) {
-                return nums[i];  
+            if (v1==0 || n>v1){
+                v3=v2;
+                v2=v1;
+                v1=n;
+            }
+            else if (v2==0 || n>v2){
+                
+                v3=v2;
+                v2=n;
+            }
+            else if (v3==0 || n>v3){
+                v3=n;
             }
         }
-        return nums[n - 1];
+
+        if(v3==0){
+            return v1;
+        }
+        return v3;
     }
 }
