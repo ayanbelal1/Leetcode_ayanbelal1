@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -40,8 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
