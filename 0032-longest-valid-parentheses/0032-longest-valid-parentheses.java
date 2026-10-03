@@ -6,7 +6,7 @@ class Solution {
 
         int ans=0;
 
-        Stack<Integer>st=new Stack<>();
+        ArrayDeque<Integer>st=new ArrayDeque<>();
         st.push(-1);
 
         for(int i=0;i<n;i++){
