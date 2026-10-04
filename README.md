@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0007-reverse-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
