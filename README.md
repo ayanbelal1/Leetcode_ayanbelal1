@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0001-two-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1043-partition-array-for-maximum-sum) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
 ## Longest Increasing Subsequence
 |  |
@@ -84,10 +86,15 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0001-two-sum) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
