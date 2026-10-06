@@ -4,46 +4,24 @@ class Solution {
         int n=matrix.length;
         int m=matrix[0].length;
 
-        int high=m-1;
-        int low=0;
-        int ansRow=-1;
-        int ansCol=-1;
-        while(low<=high){
+        int row=0;
+        int col=m-1;
 
-            int mid=low+(high-low)/2;
+        while(row<n && col>=0){
 
-            if(matrix[0][mid]>target){
-                high=mid-1;
+            if(matrix[row][col]>target){
+                col--;
             }
-            else if(matrix[0][mid]==target) return true;
-
+            else if(matrix[row][col]<target){
+                row++;
+            }
             else{
-                low=mid+1;
-                ansCol=mid;
-            }
-        }
-        if(ansCol == -1) return false;
-
-        for(int i=ansCol;i>=0;i--){
-            int lo=0;
-            int hi=n-1;
-            while(lo<=hi){
-
-                int mid=lo+(hi-lo)/2;
-
-                if(matrix[mid][i]>target){
-                    hi=mid-1;
-                }
-                else if(matrix[mid][i]==target) return true;
-
+                if(matrix[row][col]==target) return true;
                 else{
-                    lo=mid+1;
-                    ansRow=mid;
+                    return false;
                 }
             }
         }
-        if(matrix[ansRow][ansCol]==target) return true;
-
         return false;
     }
 }
