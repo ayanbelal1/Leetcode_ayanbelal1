@@ -1,24 +1,38 @@
-
 class Solution {
     public int lengthOfLIS(int[] nums) {
-
-        int n = nums.length;
-        int[][] dp = new int[n + 1][n + 1];
-
-        for (int i = n - 1; i >= 0; i--) {
-            for (int j = -1; j < i; j++) {
-
-                int exclude = dp[i + 1][j + 1];
-
-                int include = 0;
-                if (j == -1 || nums[i] > nums[j]) {
-                    include = 1 + dp[i + 1][i + 1];
-                }
-
-                dp[i][j + 1] = Math.max(include, exclude);
+        return minDeletions(nums);
+    }
+    public static int minDeletions(int[] arr) {
+        int n=arr.length;
+        
+        ArrayList<Integer> al=new ArrayList<>();
+        
+        for(int i=0;i<n;i++){
+            
+            if(al.isEmpty() || al.get(al.size()-1)<arr[i]){
+                al.add(arr[i]);
+            }
+            else{
+                int temp=lowerBound(al,0,al.size()-1,arr[i]);
+                al.set(temp,arr[i]);
             }
         }
-
-        return dp[0][0];
+        return al.size();
+    }
+    
+    private static int lowerBound(ArrayList<Integer> al,int i,int j,int target){
+        int ans=Integer.MAX_VALUE;
+        while(i<=j){
+            int mid=i+(j-i)/2;
+            
+            if(al.get(mid)>=target){
+                j=mid-1;
+                ans=Math.min(ans,mid);
+            }
+            else{
+                i=mid+1;
+            }
+        }
+        return ans;
     }
 }
