@@ -7,8 +7,7 @@ class Solution {
         int[] dp2 = new int[n];
 
         Arrays.fill(dp, 1);
-        Arrays.fill(dp2, 1);
-
+        
         int max = 1;
 
         for (int i = 0; i < n; i++) {
@@ -17,21 +16,28 @@ class Solution {
 
                 if (nums[i] > nums[j]) {
 
-                    if (dp[j] + 1 > dp[i]) {
-
-                        dp[i] = dp[j] + 1;
-                        dp2[i] = dp2[j];
-
-                    }
-                
-                    else if (dp[j] + 1 == dp[i]) {
-
-                        dp2[i] += dp2[j];
-                    }
+                    dp[i] = Math.max(dp[i], 1 + dp[j]);
                 }
             }
 
             max = Math.max(max, dp[i]);
+        }
+
+        for (int i = 0; i < n; i++) {
+
+            if(dp[i]==1){
+                dp2[i]=1;
+            }
+            for (int j = 0; j < i; j++) {
+
+                if (nums[i] > nums[j]) {
+
+                    
+                    if (dp[j] == dp[i] - 1) {
+                        dp2[i] += dp2[j];
+                    }
+                }
+            }
         }
 
         int answer = 0;
