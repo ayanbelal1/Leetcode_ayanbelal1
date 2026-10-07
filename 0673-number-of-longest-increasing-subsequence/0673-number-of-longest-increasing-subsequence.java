@@ -4,10 +4,10 @@ class Solution {
         int n = nums.length;
 
         int[] dp = new int[n];
-        int[] count = new int[n];
+        int[] dp2 = new int[n];
 
         Arrays.fill(dp, 1);
-        Arrays.fill(count, 1);
+        Arrays.fill(dp2, 1);
 
         int max = 1;
 
@@ -20,12 +20,13 @@ class Solution {
                     if (dp[j] + 1 > dp[i]) {
 
                         dp[i] = dp[j] + 1;
-                        count[i] = count[j];
+                        dp2[i] = dp2[j];
 
                     }
+                
                     else if (dp[j] + 1 == dp[i]) {
 
-                        count[i] += count[j];
+                        dp2[i] += dp2[j];
                     }
                 }
             }
@@ -38,7 +39,7 @@ class Solution {
         for (int i = 0; i < n; i++) {
 
             if (dp[i] == max) {
-                answer += count[i];
+                answer += dp2[i];
             }
         }
 
