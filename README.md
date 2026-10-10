@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1323-maximum-69-number](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1323-maximum-69-number) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Binary Search
 |  |
@@ -100,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -132,4 +135,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
