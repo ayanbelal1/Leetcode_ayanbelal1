@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Math
 |  |
 | ------- |
@@ -143,4 +144,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
