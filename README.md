@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
 | [1323-maximum-69-number](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Number Theory
 |  |
 | ------- |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
 |  |
