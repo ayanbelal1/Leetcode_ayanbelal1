@@ -17,11 +17,11 @@ class Solution {
 
         if(dp[i]!=-1) return dp[i];
 
-        for(int j=1;j<=k && i+j-1<n;j++){
+        for(int j=0;j<k && i+j<n;j++){
 
-            maxVal=Math.max(maxVal,arr[i+j-1]);
+            maxVal=Math.max(maxVal,arr[i+j]);
 
-            int sum=maxVal*j + solve(arr,k,i+j,n,dp);
+            int sum=maxVal*(j+1) + solve(arr,k,i+j+1,n,dp);
 
             maxSum=Math.max(maxSum,sum);
             
