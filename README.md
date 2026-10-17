@@ -198,4 +198,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
