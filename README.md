@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0007-reverse-integer) |
+| [0096-unique-binary-search-trees](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0096-unique-binary-search-trees) |
 | [0263-ugly-number](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
@@ -99,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0064-minimum-path-sum) |
+| [0096-unique-binary-search-trees](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0096-unique-binary-search-trees) |
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
@@ -207,4 +209,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0237-delete-node-in-a-linked-list) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
