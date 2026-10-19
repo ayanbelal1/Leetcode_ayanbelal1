@@ -1,35 +1,25 @@
 class Solution {
     public List<Integer> targetIndices(int[] nums, int target) {
+        int smaller=0;
+        int same=0;
+
         int n=nums.length;
 
-        Arrays.sort(nums);
-
-        int left=0;
-        int right=n-1;
-        int idx=-1;
-        while(left<=right){
-            int mid=left+(right-left)/2;
-
-            if(nums[mid]>=target){
-                idx=mid;
-                right=mid-1;
+        for(int i=0;i<n;i++){
+            if(nums[i]<target){
+                smaller++;
             }
-            else if(nums[mid]<target){
-                
-                left=mid+1;
-            }
+            if(nums[i]==target) same ++;
         }
-        if(idx==-1 || nums[idx]!=target) return new ArrayList<>();
 
-        int i=idx;
-        List<Integer>al=new ArrayList<>();
+        List<Integer> al=new ArrayList<>();
 
-        while(i<n){
-            if(nums[i]==target){
-                al.add(i);
-                i++;
-            }
-            else break;
+        if(same==0) return al;
+
+        int idx=smaller;
+        while(idx<=smaller+same-1){
+            al.add(idx);
+            idx++;
         }
         return al;
     }
