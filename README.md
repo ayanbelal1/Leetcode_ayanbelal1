@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0064-minimum-path-sum) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0064-minimum-path-sum) |
 | [0096-unique-binary-search-trees](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0096-unique-binary-search-trees) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
