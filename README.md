@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -230,4 +231,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0096-unique-binary-search-trees) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
