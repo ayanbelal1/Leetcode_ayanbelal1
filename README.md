@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0018-4sum) |
 | [0045-jump-game-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0055-jump-game) |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0018-4sum) |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
@@ -196,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0018-4sum) |
 | [0354-russian-doll-envelopes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
