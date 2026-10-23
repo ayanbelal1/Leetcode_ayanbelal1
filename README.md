@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3886-sum-of-sortable-integers) |
 ## Math
@@ -246,4 +247,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
