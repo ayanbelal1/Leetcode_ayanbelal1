@@ -24,8 +24,9 @@ class Solution {
                 
                 if(i==0 || j==n-1) sb1.append(".");
                 else sb1.append("#");
-                ans[i]=sb1.toString();
+                
             }
+            ans[i]=sb1.toString();
         }
         return ans;
     }
