@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
+| [0091-decode-ways](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0093-restore-ip-addresses) |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0678-valid-parenthesis-string) |
@@ -120,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0064-minimum-path-sum) |
+| [0091-decode-ways](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0091-decode-ways) |
 | [0096-unique-binary-search-trees](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
