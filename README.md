@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0046-permutations](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0055-jump-game) |
 | [0064-minimum-path-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0038-count-and-say) |
+| [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0093-restore-ip-addresses) |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0678-valid-parenthesis-string) |
@@ -175,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
@@ -255,6 +258,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0046-permutations](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
 | [0093-restore-ip-addresses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0093-restore-ip-addresses) |
 ## Combinatorics
 |  |
@@ -268,6 +272,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
