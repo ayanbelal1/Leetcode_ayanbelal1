@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1043-partition-array-for-maximum-sum) |
+| [1155-number-of-dice-rolls-with-target-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
