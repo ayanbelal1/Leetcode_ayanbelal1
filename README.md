@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0347-top-k-frequent-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0347-top-k-frequent-elements) |
 | [0354-russian-doll-envelopes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
 | [0264-ugly-number-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1289-minimum-falling-path-sum-ii) |
@@ -292,11 +295,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
@@ -316,4 +321,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0347-top-k-frequent-elements) |
+## Graph Theory
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
