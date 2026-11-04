@@ -1,39 +1,39 @@
 class Solution {
-    int m;
     int []arr;
+    int m;
     int [][]dp;
 
     public int minCost(int n, int[] cuts) {
-        arr=new int [cuts.length+2];
-        m=arr.length;
+        
+        arr=new int[cuts.length+2];
+        int m=arr.length;
 
         arr[0]=0;
         arr[m-1]=n;
+
         for(int i=1;i<m-1;i++){
             arr[i]=cuts[i-1];
         }
 
-        dp=new int[m+1][m+1];
-        for(int []row:dp){
-            Arrays.fill(row,-1);
-        }
-
         Arrays.sort(arr);
 
-        return solve(0,m-1);
-    }
+        dp=new int [m][m];
 
-    private int solve(int i,int j){
+        for(int gap=2;gap<m;gap++){
+            for(int i=0;i+gap<m;i++){
 
-        if(i+1==j) return 0;
+                int j=i+gap;
+                int ans=Integer.MAX_VALUE;
 
-        if(dp[i][j]!=-1) return dp[i][j];
+                for(int k=i+1;k<j;k++){
 
-        int minSum=Integer.MAX_VALUE;
-        for(int k=i+1;k<j;k++){
-            int cost=solve(i,k)+solve(k,j)+arr[j]-arr[i];
-            minSum=Math.min(minSum,cost);
+                    int cost=dp[i][k]+dp[k][j]+arr[j]-arr[i];
+                    ans=Math.min(ans,cost);
+                }
+                dp[i][j]=ans;
+            }
+
         }
-        return dp[i][j]=minSum;
+        return dp[0][m-1];
     }
 }
