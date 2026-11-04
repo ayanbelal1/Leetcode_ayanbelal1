@@ -1,37 +1,39 @@
 class Solution {
     int n;
-    Boolean [][]dp;
+    boolean [][]dp;
 
     public int countSubstrings(String s) {
         n=s.length();
 
-        dp=new Boolean[n][n];
+        dp=new boolean[n][n];
 
         int ans=0;
-        for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                if(solve(i,j,s)){
-                    ans++;
+        for(int len=1;len<=n;len++){
+            for(int i=0;i+len-1<n;i++){
+                
+                int j=len+i-1;
+
+                char ch1=s.charAt(i);
+                char ch2=s.charAt(j);
+
+                if(i==j) dp[i][j]=true;
+
+                else if(i+1==j){
+                    dp[i][j]=(ch1==ch2);
                 }
+                else{
+                    if(ch1==ch2){
+                        dp[i][j]=dp[i+1][j-1];
+                    }
+                    else{
+                        dp[i][j]=false;
+                    }
+                }
+
+                if(dp[i][j]) ans++;
+
             }
         }
         return ans;
-    }
-
-    private boolean solve(int i,int j,String s){
-
-        if(i>j) return true;;
-        
-        if(dp[i][j]!=null) return dp[i][j];
-
-        char ch1=s.charAt(i);
-        char ch2=s.charAt(j);
-
-        boolean ans;
-        if(ch1==ch2){
-            ans=solve(i+1,j-1,s);
-        }
-        else ans=false;
-        return dp[i][j]=ans;
     }
 }
