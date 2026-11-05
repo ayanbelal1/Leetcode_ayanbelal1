@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0018-4sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0018-4sum) |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0647-palindromic-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Dynamic Programming
 |  |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
 | [0354-russian-doll-envelopes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0354-russian-doll-envelopes) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Longest Increasing Subsequence
@@ -246,6 +249,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
