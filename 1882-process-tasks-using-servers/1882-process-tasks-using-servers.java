@@ -1,22 +1,55 @@
 class Solution {
-    record Server(long at, int weight, int index) {  // at: the second it frees up; 0 while free, so free servers sort by weight, then index
-        Server freeAt(long second) { return new Server(second, weight, index); }
-    }
+    boolean []occupied;
+    int []ans;
+    int n;
+    int m;
+    PriorityQueue<int[]>available=new PriorityQueue<>((a,b) ->{
+        if(a[0]!=b[0]){
+            return Integer.compare(a[0],b[0]);
+        }
+        return Integer.compare(a[1],b[1]);
+        
+    });
+    PriorityQueue<int[]>busy=new PriorityQueue<>((a,b) ->{
+        if(a[0]!=b[0]){
+            return Integer.compare(a[0],b[0]);
+        }
+        if(a[1]!=b[1]){
+            return Integer.compare(a[1],b[1]);
+        }
+        return Integer.compare(a[2],b[2]);
+    });
+
 
     public int[] assignTasks(int[] servers, int[] tasks) {
-        Comparator<Server> order = Comparator.comparingLong(Server::at).thenComparingInt(Server::weight).thenComparingInt(Server::index);
-        PriorityQueue<Server> free = new PriorityQueue<>(order), busy = new PriorityQueue<>(order);
-        for (int i = 0; i < servers.length; i++) free.add(new Server(0, servers[i], i));
+        n=servers.length;
+        m=tasks.length;
+        ans=new int[m];
 
-        int[] ans = new int[tasks.length];
-        for (int s = 0; s < tasks.length; s++) {
-            while (!busy.isEmpty() && busy.peek().at() <= s)  // done by second s
-                free.add(busy.poll().freeAt(0));
-            Server server = (free.isEmpty() ? busy : free).poll();  // none free: the first to finish takes it
-            busy.add(server.freeAt(Math.max(server.at(), s) + tasks[s]));
-            ans[s] = server.index();
+        for(int i=0;i<n;i++){
+            available.offer(new int[]{servers[i],i});
         }
 
+        for(int i=0;i<m;i++){
+            
+            while(busy.size()>0 && busy.peek()[0]<=i){
+                int []transfer=busy.poll();
+                available.offer(new int[]{transfer[1],transfer[2]});
+            }
+
+            int startTime=i;
+
+            if(available.isEmpty()){
+                int []transfer=busy.poll();
+
+                startTime=transfer[0];
+                available.offer(new int[]{transfer[1],transfer[2]});
+            }
+            int []av=available.poll();
+
+            busy.offer(new int[]{startTime+tasks[i],av[0],av[1]});
+            ans[i]=av[1];
+        }
         return ans;
     }
 }
