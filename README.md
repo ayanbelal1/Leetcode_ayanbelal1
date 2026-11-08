@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1043-partition-array-for-maximum-sum) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -209,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -312,17 +314,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bucket Sort
 |  |
@@ -332,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
 ## Quickselect
 |  |
 | ------- |
