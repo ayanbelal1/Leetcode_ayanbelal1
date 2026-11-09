@@ -23,13 +23,6 @@ class Solution {
         numPad[3][1]=0;
         numPad[3][2]=-1;
 
-        for(int i=0;i<row;i++){
-            for(int j=0;j<col;j++){
-                System.out.print(numPad[i][j]+" ");
-            }
-            System.out.println("");
-        }
-
         dp=new int[11][n];
         for(int[] row:dp){
             Arrays.fill(row,-1);
