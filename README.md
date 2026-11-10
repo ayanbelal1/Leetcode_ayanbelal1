@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1323-maximum-69-number](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1323-maximum-69-number) |
+| [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1155-number-of-dice-rolls-with-target-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -359,4 +361,24 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
