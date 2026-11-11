@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0263-ugly-number](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0264-ugly-number-ii) |
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1323-maximum-69-number](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1323-maximum-69-number) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
 | [0576-out-of-boundary-paths](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0576-out-of-boundary-paths) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
@@ -366,10 +368,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
