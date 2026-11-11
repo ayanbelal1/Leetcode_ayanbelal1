@@ -38,16 +38,14 @@ class Solution {
 
     private int solve(int i,int j,int k){
         
-        if(i>j) return 0;
+        if(i>=j) return 0;
 
         if(k==1) return costs[i][j];
-
-        if(j-i+1<=k) return 0;
 
         if(dp[i][j][k]!=-1) return dp[i][j][k];
 
         int ans=(int)1e9;
-        for(int t=i;t<=j-k+1;t++){
+        for(int t=i;t<=j;t++){
 
             int penalty=costs[i][t];
 
