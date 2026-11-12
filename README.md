@@ -31,6 +31,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1024-video-stitching](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1043-partition-array-for-maximum-sum) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
@@ -171,6 +172,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0678-valid-parenthesis-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0678-valid-parenthesis-string) |
 | [0935-knight-dialer](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0935-knight-dialer) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1024-video-stitching](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1043-partition-array-for-maximum-sum) |
 | [1155-number-of-dice-rolls-with-target-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1155-number-of-dice-rolls-with-target-sum) |
@@ -193,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1024-video-stitching](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1024-video-stitching) |
 | [1323-maximum-69-number](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1323-maximum-69-number) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
