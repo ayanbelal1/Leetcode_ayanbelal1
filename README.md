@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0546-remove-boxes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0546-remove-boxes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1043-partition-array-for-maximum-sum) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0368-largest-divisible-subset) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1478-allocate-mailboxes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1478-allocate-mailboxes) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1547-minimum-cost-to-cut-a-stick) |
