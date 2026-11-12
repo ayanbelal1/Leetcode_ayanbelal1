@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3644-maximum-k-to-sort-a-permutation) |
