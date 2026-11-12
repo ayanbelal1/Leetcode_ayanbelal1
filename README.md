@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0004-median-of-two-sorted-arrays) |
 | [0018-4sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0055-jump-game) |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0042-trapping-rain-water) |
 | [0678-valid-parenthesis-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -138,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0018-4sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0018-4sum) |
+| [0042-trapping-rain-water](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0042-trapping-rain-water) |
 | [0392-is-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0647-palindromic-substrings) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -146,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0062-unique-paths) |
@@ -410,4 +414,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0486-predict-the-winner) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
