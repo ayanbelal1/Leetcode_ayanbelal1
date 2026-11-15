@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1289-minimum-falling-path-sum-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1478-allocate-mailboxes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1478-allocate-mailboxes) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1626-best-team-with-no-conflicts) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1323-maximum-69-number](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1323-maximum-69-number) |
 | [1478-allocate-mailboxes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1289-minimum-falling-path-sum-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1478-allocate-mailboxes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1478-allocate-mailboxes) |
 | [1510-stone-game-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1510-stone-game-iv) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1626-best-team-with-no-conflicts](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1626-best-team-with-no-conflicts) |
@@ -313,6 +316,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0560-subarray-sum-equals-k) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
 |  |
