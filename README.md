@@ -28,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0486-predict-the-winner) |
 | [0546-remove-boxes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0546-remove-boxes) |
+| [0560-subarray-sum-equals-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0001-two-sum) |
 | [0264-ugly-number-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0560-subarray-sum-equals-k) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -309,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0560-subarray-sum-equals-k) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3364-minimum-positive-sum-subarray) |
 ## Linked List
