@@ -1,20 +1,21 @@
 class Solution {
     public String digitSum(String s, int k) {
-        StringBuilder sb=new StringBuilder(s);
-        int n=sb.length();
-
-        while(n>k){
-            StringBuilder temp=new StringBuilder();
-            for(int i=0;i<n;i=i+k){
-                int sum=0;
-                for(int j=i;j<i+k;j++){
-                    if(j<n) sum+=sb.charAt(j)-'0';
-                }
-                temp.append(sum);
-            }
-            sb=temp;
-            n=sb.length();
+        int t=s.length();
+        if(t<=k){
+            return s;
         }
-        return sb.toString();
+        StringBuilder ans=new StringBuilder();
+        int sum=0;
+        for(int i=0;i<t;i++){
+            sum+=s.charAt(i)-'0';
+            if((i+1)%k == 0){
+                ans.append(sum);
+                sum=0;     
+            }          
+        }
+        if(t%k != 0){
+                ans.append(sum);
+        }
+        return digitSum(String.valueOf(ans),k);
     }
 }
