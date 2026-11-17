@@ -1,16 +1,41 @@
 class Solution {
+    int n;
+    int []prices;
+    int [][]dp;
     public int maxProfit(int[] prices) {
+        n=prices.length;
+        this.prices=prices;
 
-        int maxProfit=0;
-        int minVal=Integer.MAX_VALUE;
-        for(int i=0;i<prices.length;i++){
-
-            if(prices[i]<minVal) minVal=prices[i];
-
-            
-            maxProfit=Math.max(maxProfit,prices[i]-minVal);
+        dp=new int[n+1][2];
+        for(int []row:dp){
+            Arrays.fill(row,-1);
         }
         
-        return maxProfit;
+
+        return solve(0,1);
+    }
+
+    private int solve(int i,int bought){
+
+        if(i==n || bought==-1) return 0;
+
+        if(dp[i][bought]!=-1) return dp[i][bought];
+
+        if(bought==1){
+
+            int buy=solve(i+1,0)-prices[i];
+
+            int skipBuy=solve(i+1,bought);
+
+            return dp[i][bought]=Math.max(buy,skipBuy);
+        }
+        else{
+
+            int sell=solve(i+1,-1)+prices[i];
+
+            int skipSell=solve(i+1,bought);
+            
+            return  dp[i][bought]=Math.max(sell,skipSell);
+        }
     }
 }
