@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2684-maximum-number-of-moves-in-a-grid) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3364-minimum-positive-sum-subarray) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2304-minimum-path-cost-in-a-grid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2304-minimum-path-cost-in-a-grid) |
 | [2684-maximum-number-of-moves-in-a-grid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2684-maximum-number-of-moves-in-a-grid) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3665-twisted-mirror-path-count](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Greedy
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2089-find-target-indices-after-sorting-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3886-sum-of-sortable-integers) |
