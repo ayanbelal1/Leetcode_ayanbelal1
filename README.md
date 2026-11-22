@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0221-maximal-square) |
+| [0239-sliding-window-maximum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0300-longest-increasing-subsequence) |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0304-range-sum-query-2d-immutable) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0347-top-k-frequent-elements) |
 | [1882-process-tasks-using-servers](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1882-process-tasks-using-servers) |
@@ -471,6 +473,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0076-minimum-window-substring) |
+| [0239-sliding-window-maximum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0239-sliding-window-maximum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3364-minimum-positive-sum-subarray) |
 ## Simulation
 |  |
@@ -480,4 +483,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0304-range-sum-query-2d-immutable) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
