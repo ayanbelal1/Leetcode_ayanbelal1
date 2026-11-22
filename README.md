@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0879-profitable-schemes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0879-profitable-schemes) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1024-video-stitching](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1024-video-stitching) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0678-valid-parenthesis-string) |
+| [0879-profitable-schemes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0879-profitable-schemes) |
 | [0935-knight-dialer](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0935-knight-dialer) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
 | [1024-video-stitching](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1024-video-stitching) |
@@ -495,4 +497,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0239-sliding-window-maximum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0879-profitable-schemes) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0879-profitable-schemes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0879-profitable-schemes) |
 <!---LeetCode Topics End-->
