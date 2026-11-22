@@ -39,7 +39,7 @@ class Solution {
                         if(map.containsKey(findNext)){
                             map.put(findNext, map.get(findNext) + 1);
                             if (map.get(findNext) > 0) {
-                                    foundAll = false;
+                                foundAll = false;
                             }
                         }
                         i++;
