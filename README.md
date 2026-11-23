@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0879-profitable-schemes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0879-profitable-schemes) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0647-palindromic-substrings) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0879-profitable-schemes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0879-profitable-schemes) |
 | [0935-knight-dialer](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0935-knight-dialer) |
 | [1000-minimum-cost-to-merge-stones](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1000-minimum-cost-to-merge-stones) |
@@ -237,6 +239,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0646-maximum-length-of-pair-chain) |
 | [0678-valid-parenthesis-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0678-valid-parenthesis-string) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1024-video-stitching](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1024-video-stitching) |
 | [1323-maximum-69-number](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1323-maximum-69-number) |
