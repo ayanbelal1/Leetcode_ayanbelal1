@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3665-twisted-mirror-path-count) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3689-maximum-total-subarray-value-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2333-minimum-sum-of-squared-difference](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [3689-maximum-total-subarray-value-i](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3689-maximum-total-subarray-value-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3789-minimum-cost-to-acquire-required-items) |
