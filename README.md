@@ -441,6 +441,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1791-find-center-of-star-graph](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1791-find-center-of-star-graph) |
 ## Topological Sort
 |  |
 | ------- |
