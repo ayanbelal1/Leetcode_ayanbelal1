@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1289-minimum-falling-path-sum-ii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1352-product-of-the-last-k-numbers](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1436-destination-city](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1436-destination-city) |
 | [1478-allocate-mailboxes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1478-allocate-mailboxes) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -137,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0856-score-of-parentheses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1021-remove-outermost-parentheses) |
+| [1436-destination-city](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1436-destination-city) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2124-check-if-all-as-appears-before-all-bs) |
@@ -305,6 +307,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0997-find-the-town-judge) |
 | [1027-longest-arithmetic-subsequence](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1027-longest-arithmetic-subsequence) |
+| [1436-destination-city](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1436-destination-city) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
