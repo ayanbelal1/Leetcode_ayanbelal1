@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -509,6 +510,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3360-stone-removal-game) |
 ## Design
 |  |
 | ------- |
