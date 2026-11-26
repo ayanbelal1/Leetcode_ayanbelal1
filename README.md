@@ -415,6 +415,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1971-find-if-path-exists-in-graph) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -424,6 +425,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0547-number-of-provinces](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Bucket Sort
 |  |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1615-maximal-network-rank) |
 | [1791-find-center-of-star-graph](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1791-find-center-of-star-graph) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
