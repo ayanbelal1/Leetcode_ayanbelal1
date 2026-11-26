@@ -412,6 +412,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0079-word-search](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0079-word-search) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3331-find-subtree-sizes-after-changes) |
@@ -420,12 +421,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0547-number-of-provinces) |
 | [1254-number-of-closed-islands](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0547-number-of-provinces](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0547-number-of-provinces) |
 | [0997-find-the-town-judge](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/0997-find-the-town-judge) |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1557-minimum-number-of-vertices-to-reach-all-nodes) |
 | [1615-maximal-network-rank](https://github.com/ayanbelal1/Leetcode_ayanbelal1/tree/master/1615-maximal-network-rank) |
